@@ -1,0 +1,78 @@
+%!Adobe-FontList 1.24
+%Locale:0x804
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MarqueNormal
+FamilyName:Marque
+StyleName:Normal
+FullName:Marque Normal
+MenuName:Marque
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\userData\Desktop\“二排历史-第三册”文件夹\Document fonts\Marque.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:28260
+FileModTime:1692791019
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Marque Normal
+NameArray:0,Win,1,Marque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+FullName:Times New Roman
+MenuName:Times New Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\userData\Desktop\“二排历史-第三册”文件夹\Document fonts\times.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1195688
+FileModTime:1692791019
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HYPY-ZWB-1
+FamilyName:lI嬳b鼦?
+StyleName:Regular
+FullName:lI嬳b鼦骩Wk?
+MenuName:lI嬳b鼦?
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\userData\Desktop\“二排历史-第三册”文件夹\Document fonts\拼音字母字体.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:314652
+FileModTime:1692791019
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,lI嬳b鼦?
+NameArray:25,Win,1,汉语拼音
+%EndFont
+
