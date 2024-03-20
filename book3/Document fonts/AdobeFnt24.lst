@@ -11,7 +11,7 @@ FullName:Marque Normal
 MenuName:Marque
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\userData\Desktop\“二排历史-第三册”文件夹\Document fonts\Marque.otf
+OutlineFileName:E:\Git\SRI-History\book3\Document fonts\Marque.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -37,7 +37,7 @@ FullName:Times New Roman
 MenuName:Times New Roman
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\userData\Desktop\“二排历史-第三册”文件夹\Document fonts\times.ttf
+OutlineFileName:E:\Git\SRI-History\book3\Document fonts\times.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
@@ -61,7 +61,7 @@ FullName:lI嬳b鼦骩Wk?
 MenuName:lI嬳b鼦?
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:E:\userData\Desktop\“二排历史-第三册”文件夹\Document fonts\拼音字母字体.ttf
+OutlineFileName:E:\Git\SRI-History\book3\Document fonts\拼音字母字体.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
